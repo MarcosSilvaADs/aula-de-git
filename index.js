@@ -1,1 +1,1 @@
-alert("Ola mundo do git")
+alert(1 + 1);
