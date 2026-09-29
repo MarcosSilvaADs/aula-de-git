@@ -1,1 +1,1 @@
-alert("olá mundo do git e github")
+alert("Ola mundo do git")
